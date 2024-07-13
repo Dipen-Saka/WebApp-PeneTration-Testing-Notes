@@ -7,7 +7,7 @@
 ```bash
 # Linux
 ip route
-
+  
 # Windows
 route print
 
@@ -34,6 +34,7 @@ ifconfig
 ```bash
 # Linux
 ip neighbour
+arp-scan (inet)
 
 # Windows
 arp -a
